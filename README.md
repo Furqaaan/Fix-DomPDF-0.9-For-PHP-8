@@ -1,6 +1,6 @@
-# Fix-DomPDF-0.9-For-PHP-8
+Fix-DomPDF-For-PHP-8-Without-Updating
 
-Fix DomPDF 0.9 For PHP 8
+Fix DomPDF 0.8 or 0.9 For PHP 8
 
 **1) vendor\dompdf\dompdf\src\Adapter\CPDF**
 
